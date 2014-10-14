@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestureMonitor</string>
+    <string name="hello_world">this demo is used to verify we can monitor any android application when they are running on the foreground,through this way we can switch our gesture strategy on different applications to give best experience to customer.
+    USAGE:1. please press android Home key to hide this service into background.
+    	  2. click calculator application and as long as caculator on the foreground, this monitor will jump up a window continue.
+    </string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
